@@ -50,8 +50,8 @@ Unlike traditional RAG systems, AURA features:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/AURA.git
-cd AURA
+git clone thttps://github.com/yusufcalisir/AURA-Research-Architect.git
+cd AURA-Research-Architect
 
 # Create and activate virtual environment
 python -m venv venv
@@ -108,3 +108,4 @@ This is an open "Work in Progress." Feel free to fork, open issues, or submit PR
 
 **Built with 💜 by Yusuf Çalışır**
 *AURA — Transforming questions into structured knowledge.*
+
