@@ -1,0 +1,12 @@
+# AURA Research Architect - Dependencies
+# =======================================
+
+# Core Framework
+dspy-ai>=2.5.0
+streamlit>=1.28.0
+
+# LLM Providers (optional - for cloud APIs)
+openai>=1.0.0
+
+# Utilities
+python-dotenv>=1.0.0
