@@ -15,14 +15,14 @@
 
 ## 🌟 What is AURA?
 
-**AURA** (Autonomous Universal Research Architect) is a next-generation research synthesis system built on the **DSPy** framework. It transforms research questions into structured, grounded insights through a multi-stage cognitive pipeline.
+**AURA** (Autonomous Universal Research Architect) is a next generation research synthesis system built on the **DSPy** framework. It transforms research questions into structured, grounded insights through a multi stage cognitive pipeline.
 
 Unlike traditional RAG systems, AURA features:
 
 *   🔄 **Self-Evolving Prompts**: Automatically optimizes prompts using DSPy's compilation.
-*   🧠 **Multiple Reasoning Modes**: Standard RAG, Multi-Hop, ReAct Agents, and Self-Reflection.
+*   🧠 **Multiple Reasoning Modes**: Standard RAG, Multi Hop, ReAct Agents, and Self-Reflection.
 *   💸 **Hybrid LLM Engine**: Works with free local models (Ollama) or cloud APIs (DeepSeek, OpenAI).
-*   📊 **Intrinsic Evaluation**: Built-in quality assessment using LLM-as-judge metrics.
+*   📊 **Intrinsic Evaluation**: Built in quality assessment using LLM as judge metrics.
 
 ---
 
@@ -32,15 +32,15 @@ Unlike traditional RAG systems, AURA features:
 
 | Mode | Description | Best For |
 | :--- | :--- | :--- |
-| **Standard RAG** | Classic Rewrite-Retrieve-Read flow | Factual research |
+| **Standard RAG** | Classic Rewrite Retrieve Read flow | Factual research |
 | **Multi-Hop** | Iterative context chaining | Complex investigations |
 | **ReAct Agent** | Autonomous tool orchestration | Dynamic problem solving |
-| **Reflector** | Self-reflection and quality filtering | High-stakes synthesis |
+| **Reflector** | Self reflection and quality filtering | High stakes synthesis |
 
 ### 🔌 Hybrid Engine
 *   **Ollama (Free/Local)**: Run Llama3, Phi-3, or Mistral on your own hardware.
-*   **DeepSeek API**: High-performance, low-cost intelligence.
-*   **OpenAI API**: Industry-leading frontier models.
+*   **DeepSeek API**: High performance, low-cost intelligence.
+*   **OpenAI API**: Industry leading frontier models.
 
 ---
 
@@ -107,5 +107,6 @@ This is an open "Work in Progress." Feel free to fork, open issues, or submit PR
 ---
 
 **Built with 💜 by Yusuf Çalışır**
-*AURA — Transforming questions into structured knowledge.*
+*AURA-Research-Architect*
+
 
