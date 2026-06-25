@@ -26,7 +26,7 @@ Unlike traditional RAG systems, AURA features:
 
 ---
 
-## 🎯 Core Features
+## 🎯Core Features
 
 ### 🏗️ Cognitive Architectures
 
