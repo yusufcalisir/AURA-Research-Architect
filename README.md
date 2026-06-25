@@ -13,7 +13,7 @@
 
 ---
 
-## 🌟 What is AURA?
+## 🌟What is AURA?
 
 **AURA** (Autonomous Universal Research Architect) is a next generation research synthesis system built on the **DSPy** framework. It transforms research questions into structured, grounded insights through a multi stage cognitive pipeline.
 
