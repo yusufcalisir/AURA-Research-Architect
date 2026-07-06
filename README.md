@@ -5,7 +5,7 @@
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![DSPy](https://img.shields.io/badge/DSPy-Powered-6366f1?style=for-the-badge)](https://github.com/stanfordnlp/dspy)
 [![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
-
+ 
 ---
 
 ### ⚠️ EARLY PREVIEW (Under Development)
